@@ -6,7 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal(new) {
-  var animal = "cat";
+  var animal = new;
   return animal;
 }
 
